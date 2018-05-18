@@ -20,7 +20,7 @@
     "node":         ">= 0.10.10"
   },
   "dependencies": {
-    "serialport":            "~1.4.0",
+    "serialport":            "~6.2.0",
     "sax":                  "~0.5.4"
   },
   "devDependencies": {
